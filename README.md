@@ -20,7 +20,7 @@
 
 - 📫 [LinkedIn](www.linkedin.com/in/himanshu-shekhar-48ba8b1b0)  
 - 📄 [View My Resume](https://drive.google.com/file/d/1GmRpyVql4IZ4RfO1pcM6bLSq1NQotC-X/view?usp=sharing)
-- 📄 [Download My Resume](https://github.com/himanshushekhar/himanshushekhar/blob/main/Himanshu_Shekhar_Resume.pdf)
+- 📄 [Download My Resume](https://github.com/Himanshu-Dwivedi-Shekhar/Himanshu-Shekhar/blob/main/Himanshu%20Resume.pdf)
 
 
 
